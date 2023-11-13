@@ -1,0 +1,16 @@
+{
+    "myItemPrices": [
+    {
+        "name": "Apple",
+        "price": 10
+    },
+    {
+        "name": "Banana",
+        "price": 15
+    },
+    {
+        "name": "Coconut",
+        "price": 30
+    }
+]
+}
